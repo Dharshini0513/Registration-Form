@@ -1,0 +1,13 @@
+h1{
+    font-style: italic;
+    color: black;
+}
+body{
+    background: -o-repeating-linear-gradient(green,s yellow);
+    background-repeat: no-repeat;
+    
+}
+video{
+    margin: 0;
+    padding: 0;
+}
